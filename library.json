@@ -1,0 +1,13 @@
+{
+  "name": "ServiceOnWiFi",
+  "keywords": "WiFi, ESPmDNS, HTTPClient",
+  "description": "A library that makes create service or find service within WiFi easy.",
+  "homepage": "https://github.com/isdom/ServiceOnWiFi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isdom/ServiceOnWiFi"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
